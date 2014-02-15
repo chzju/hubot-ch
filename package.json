@@ -1,0 +1,23 @@
+{
+  "name": "hubot-ch",
+  "version": "1.0.0",
+  "description": "send email, xx, etc. compatible with mac and *nix system",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ch.zju/hubot-ch.git"
+  },
+  "keywords": [
+    "hubot",
+    "email",
+    "mac"
+  ],
+  "author": "ch.zju <https://github.com/ch.zju>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ch.zju/hubot-ch/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6"
+  }
+}
